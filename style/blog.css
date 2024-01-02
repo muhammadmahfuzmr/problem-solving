@@ -1,0 +1,12 @@
+h2{
+    background-color: aqua;
+    padding: 10px;
+    border: 10px solid red;
+    border-radius: 10px;
+}
+img{
+    width: 300px;
+}
+p{
+    color: blueviolet;
+}
